@@ -5,6 +5,8 @@
 ## 介绍
 本次实验使用python实现了Prewitt、Sobel、Canny、FDoG和使用非极大值约束得FDoG这五种边缘检测方式，并制作了GUI便于使用。为使效果对比更加明显，对Prewitt、Sobel、Canny的输出结果进行反色处理。
 
+仅作学习参考，请不要直接抄袭，只有自己完成相应实验，才能真正地学习到知识。
+
 ## 环境依赖
 - `pip install -r requirements.txt`.
 
